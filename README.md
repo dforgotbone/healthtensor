@@ -30,7 +30,7 @@ Validators are also rewarded for their indispensable role in the ecosystem. Thro
 
 #### Clone the repository from Github
 ```bash
-git clone https://github.com/0xdeity/bt-healthtensor.git
+git clone https://github.com/dforgotbone/healthtensor.git
 ```
 
 #### Install package dependencies for the repository
