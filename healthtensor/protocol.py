@@ -18,7 +18,7 @@
 
 import typing
 import bittensor as bt
-import torch
+import torch 
 import pydantic
 
 class Request(bt.Synapse):
